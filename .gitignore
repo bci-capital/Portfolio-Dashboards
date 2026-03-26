@@ -1,0 +1,5 @@
+# Only track the bundled portfolio dashboard
+*
+!bci_portfolio.html
+!index.html
+!.gitignore
